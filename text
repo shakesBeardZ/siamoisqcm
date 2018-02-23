@@ -1,0 +1,36 @@
+#
+	cas clinique
+#
+$	Question 1
+proposition 1 
+proposition 2 
+proposition 3 
+proposition 4
+proposition 5
+reponse 
+commentaire
+$	Question 2
+*proposition 1 
+*proposition 2 
+*proposition 3 
+*proposition 4
+*proposition 5
+a.(3+5) b.(1+4+3) c.(1+3) d.(1+2+5) e.(4+3)  
+reponse 
+$    Question3 <= cas d'association 
+1. proposition 1
+2. proposition 2
+3. proposition 3
+4. proposition 4
+5. proposition 5
+A. proposition 6
+B. proposition 7
+C. proposition 8 
+D. proposition 9
+E. proposition 10
+A,C,B,E,D    <= reponse
+
+@
+	discussion
+@ 
+

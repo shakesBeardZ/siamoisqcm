@@ -1,0 +1,35 @@
+#  fdsfs gs
+   CAS CLINIQUE 
+$ Question 1 
+Réaliser une exérèse tumorale la plus complète possible
+Ponctionner le kyste
+Réaliser une biopsie stéréotaxique de la tumeur
+Réaliser une craniectomie décompressive
+Drainer le quatrième ventricule
+la reponse 
+commentaire
+$ Question 2        
+Réaliser une exérèse tumorale la plus complète possible
+Ponctionner le kyste
+Réaliser une biopsie stéréotaxique de la tumeur
+Réaliser une craniectomie décompressive
+Drainer le quatrième ventricule
+la reponse 
+cmmmentaire
+# CAS CLINIQUE 
+$ Question 3
+Réaliser une exérèse tumorale la plus complète possible
+Ponctionner le kyste
+Réaliser une biopsie stéréotaxique de la tumeur
+Réaliser une craniectomie décompressive
+Drainer le quatrième ventricule
+la reponse 
+cmmmentaire
+$ Question 4        
+Réaliser une exérèse tumorale la plus complète possible
+Ponctionner le kyste
+Réaliser une biopsie stéréotaxique de la tumeur
+Réaliser une craniectomie décompressive
+Drainer le quatrième ventricule
+la reponse 
+cmmmentaire

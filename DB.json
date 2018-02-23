@@ -1,0 +1,63 @@
+ [ 
+ 	{ "cc" : {
+ 	 	"enonce":" enonce de cas clinique ",
+ 	 	"questions": [
+ 	 		{
+ 	 			"enonce_question" : " enonce question" ,
+ 	 			"type" : "choix simple",
+ 	 			"propositions": [ 
+ 	 				"proposition 1" ,
+ 	 				"proposition 2" ,
+ 	 				"proposition 3" ,
+ 	 				"proposition 4" ,
+ 	 				"proposition 5" ,
+ 	 			],
+ 	 			"reponse": "5",
+ 	 			"commentaire": " text de commentaire "
+ 	 		},
+ 	 		{
+ 	  			"enonce_question":" enonce question",
+ 	 			"type":"choix multiple",
+ 	 			"propositions" : [ 
+ 	 				"proposition 1" ,
+ 	 				"proposition 2" ,
+ 	 				"proposition 3" ,
+ 	 				"proposition 4" ,
+ 	 				"proposition 5" ,
+ 	 			],
+ 	 			"reponse": [ 5 , 2 , 3 ],
+ 	 			"commentaire"  : " text de commentaire "
+ 	 		}
+ 	 		{
+ 	  			"enonce_question":" enonce question",
+ 	 			"type":"QROC",
+ 	 			"reponse": " text ",
+ 	 			"commentaire": " text de commentaire "
+ 	 		}
+ 	 		{
+ 	  			"enonce_question":" enonce question",
+ 	 			"type":"association",
+ 	 			"colomn 1": [ 
+ 	 				"proposition 1" ,
+ 	 				"proposition 2" ,
+ 	 				"proposition 3" ,
+ 	 				"proposition 4" ,
+ 	 				"proposition 5" ,
+ 	 			],
+ 	 			"colomn 2": [ 
+ 	 				"proposition 1" ,
+ 	 				"proposition 2" ,
+ 	 				"proposition 3" ,
+ 	 				"proposition 4" ,
+ 	 				"proposition 5" ,
+ 	 			],
+ 	 			"reponse": [
+ 	 				[a,1],
+ 	 				[b,5]
+ 	 			],
+ 	 			"commentaire": " text de commentaire "
+ 	 		}
+ 	 	]	
+ 	 }
+ 	}
+ ]

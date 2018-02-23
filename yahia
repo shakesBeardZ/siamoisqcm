@@ -1,0 +1,67 @@
+    #  CAS CLINIQUE  dddddddddddd
+       ddddddddddddddddddddddddddddddddddddddddddddddd 
+	$ Quel geste proposez-vous ? (Cochez la réponse juste)
+	Réaliser une exérèse tumorale la plus complète possible
+	Ponctionner le kyste
+	£ Réaliser une biopsie stéréotaxique de la tumeur
+	Réaliser une craniectomie décompressive
+	Drainer le quatrième ventricule
+	commmentaire :?
+	$ Quel geste proposez-vous ? (Cochez la réponse juste)
+	*Réaliser une exérèse tumorale la plus complète possible
+	*Ponctionner le kyste
+	*Réaliser une biopsie stéréotaxique de la tumeur
+	*Réaliser une craniectomie décompressive
+	*Drainer le quatrième ventricule
+	a.(1+2) , £ b.(3+4+6) c.(toutes justes)    <= les propositions   
+	commentaire
+	$ Question du QROC   
+    ^ kjhbhbyvyuv
+     gkh xdg gngsj  ^  :? 
+	& ennonce de la question de les Associations 
+	1. rr
+	2. fgf
+	3. gfg
+	A. gf
+	B. dgf
+	C. fg
+	2,1,3    <= l'ordre juste de 1er colomn 
+	commentaire     
+	$ la question de QCS
+		v/f  <= la reponse 
+    commentaires
+    ~ classification ou organisation des etaps
+	etap 1  
+	etap 2   
+	etap 3
+	etap 4
+	etap 5
+	la reponse ???
+	@
+		Discussion
+	#  <= indiquer la fin d'un cc  
+
+
+
+
+
+
+
+
+
+
+
+
+
+remplire    
+
+ file parsing options
+ 	pythone libraries ^$
+ 	constrcut  a parser $with it's own grammer
+ 	parse line by line an$d use a regex library 
+ Database options 
+
+ 	sql
+ 	nosql 
+ 	daas firebase or realm 
+ Database reconstrcut  
